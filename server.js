@@ -20,7 +20,7 @@ app.get('/status', (req, res) => {
 });
 
 // === AUTH ROUTES (Refactored for pg) ===
-app.post('/auth/register', async (req, res, next) => {
+app.post('/authMiddleware/register', async (req, res, next) => {
   const { username, password } = req.body;
 
   if (!username || !password || password.length < 6) {
