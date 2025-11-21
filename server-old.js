@@ -4,7 +4,7 @@ const jwt = require('jsonwebtoken');
 const express = require('express');
 const cors = require('cors');
 const db = require('./database.js');
-const { authenticateToken, authorizeRole } = require('./middleware/authMiddleware.js');
+const { authenticateToken, authorizeRole } = require('./middleware/auth.js');
 
 const app = express();
 const PORT = process.env.PORT || 3300;
