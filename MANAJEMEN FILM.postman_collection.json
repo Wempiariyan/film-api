@@ -1,0 +1,99 @@
+{
+	"info": {
+		"_postman_id": "9b3bd8cc-1d9a-43d1-921f-287219ffc572",
+		"name": "MANAJEMEN FILM",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "48015961",
+		"_collection_link": "https://wempiariyan0-9089179.postman.co/workspace/percobaan~febecdf7-2bc1-4e18-b78a-2eeb3b39e948/collection/48015961-9b3bd8cc-1d9a-43d1-921f-287219ffc572?action=share&source=collection_link&creator=48015961"
+	},
+	"item": [
+		{
+			"name": "STATUS",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "ENDPOINT DIRECTORS GET",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "ENDPOINT DIRECTORS GET ID",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "ENDPOINT DIRECTORS POST",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "ENDPOINT DIRECTORS PUT",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "ENDPOINT DIRECTORS DELETE",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "ENDPOINT DIRECTORS GET",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "ENDPOINT DIRECTORS GET ID",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "ENDPOINT DIRECTORS POST",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "ENDPOINT DIRECTORS PUT",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "ENDPOINT DIRECTORS DELETE",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
